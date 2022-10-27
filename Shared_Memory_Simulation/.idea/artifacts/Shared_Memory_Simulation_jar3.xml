@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shared_Memory_Simulation:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shared_Memory_Simulation_jar3</output-path>
+    <root id="archive" name="Shared_Memory_Simulation.jar">
+      <element id="module-output" name="Shared_Memory_Simulation" />
+    </root>
+  </artifact>
+</component>
