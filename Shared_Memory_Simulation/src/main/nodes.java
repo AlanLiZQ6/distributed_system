@@ -174,7 +174,7 @@ public class nodes {
 
 
                 } catch (Exception e) {
-                    System.out.println("链接异常断开");
+                    System.out.println("linked disconnected");
                 }
 
                 if (closeSocket) {
